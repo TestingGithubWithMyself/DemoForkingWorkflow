@@ -1,1 +1,2 @@
 User1 adds line1
+User2 adds line2
